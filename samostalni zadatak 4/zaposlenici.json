@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "ime": "Boris",
+    "prezime": "Vujica",
+    "godine_staza": 20,
+    "pozicija": "Direktor"
+  },
+  {
+    "id": 2,
+    "ime": "Robi",
+    "prezime": "Vujica",
+    "godine_staza": 10,
+    "pozicija": "Čistač"
+  },
+  {
+    "id": 3,
+    "ime": "Krešimir",
+    "prezime": "Tragoljan",
+    "godine_staza": 5,
+    "pozicija": "Projektni menadžer"
+  },
+
+  {
+    "id": 4,
+    "ime": "Nikola",
+    "prezime": "Tesla",
+    "godine_staza": 10,
+    "pozicija": "Support"
+  }
+]
